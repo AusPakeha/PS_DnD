@@ -5,7 +5,7 @@
 	"icon": {
 		"type": "item",
 		"data": {
-			"item": "diamond_sword"
+			"item": "diamond_axe"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"
