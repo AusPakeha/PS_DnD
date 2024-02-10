@@ -4,10 +4,8 @@
 	"show_warnings": true,
 
 	"categories": [
-		"fighter",
-		"ranger",
-		"wizard",
-		"miner",
-        "lumberjack"
+		"adventurer",
+		"lumberjack",
+		"miner"
 	]
 }
