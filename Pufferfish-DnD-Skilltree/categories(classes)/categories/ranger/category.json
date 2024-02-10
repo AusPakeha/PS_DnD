@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Ranger",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "bow"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}
