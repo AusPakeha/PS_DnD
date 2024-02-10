@@ -5,8 +5,8 @@
 	"icon": {
 		"type": "item",
 		"data": {
-			"item": "diamond_sword"
+			"item": "diamond_pickaxe"
 		}
 	},
-	"background": "textures/gui/advancements/backgrounds/adventure.png"
+	"background": "textures/gui/advancements/backgrounds/stone.png"
 }
