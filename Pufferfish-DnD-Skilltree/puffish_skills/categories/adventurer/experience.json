@@ -93,7 +93,7 @@
 				"experience": [
 					{
 						"condition": "is_jump",
-						"expression": "0.50"
+						"expression": "5"
 					}
 				],
 				"anti_farming": {
