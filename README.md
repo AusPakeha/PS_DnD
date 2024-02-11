@@ -18,5 +18,5 @@ https://www.curseforge.com/minecraft/mc-mods/pufferfishs-unofficial-additions
 
 Suggested Mod:
 
-JEI - in combination with F3 + H, allows you to easly sea item names
+JEI - in combination with F3 + H, allows you to easly see item names
 https://www.curseforge.com/minecraft/mc-mods/jei
