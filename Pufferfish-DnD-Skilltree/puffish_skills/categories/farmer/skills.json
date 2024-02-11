@@ -1,0 +1,284 @@
+{
+	"7un7eozi3ncc7qbd": {
+		"definition": "fishingluck",
+		"x": 224,
+		"y": 224,
+		"root": false
+	},
+	"azg8a39ua2qwy0gj": {
+		"definition": "fishingluck",
+		"x": 96,
+		"y": 96,
+		"root": false
+	},
+	"gtdlfwhnznajlbnd": {
+		"definition": "fishingluck",
+		"x": -64,
+		"y": -64,
+		"root": false
+	},
+	"s2e3y1ozar80uooj": {
+		"definition": "reach",
+		"x": -448,
+		"y": 480,
+		"root": false
+	},
+	"xy0y2qr23evfepu8": {
+		"definition": "rootreach",
+		"x": 448,
+		"y": -416,
+		"root": true
+	},
+	"o3zyib0ufn9iafb4": {
+		"definition": "reach",
+		"x": 320,
+		"y": -288,
+		"root": false
+	},
+	"airitaqk4sd1d3po": {
+		"definition": "reach",
+		"x": 64,
+		"y": -32,
+		"root": false
+	},
+	"lyz7age1i4zbbldw": {
+		"definition": "reach",
+		"x": -64,
+		"y": 96,
+		"root": false
+	},
+	"1kzw1h9s67nwo29g": {
+		"definition": "reach",
+		"x": -320,
+		"y": 352,
+		"root": false
+	},
+	"nddxashf594xfw1b": {
+		"definition": "rootcropharvest+1",
+		"x": 352,
+		"y": -448,
+		"root": true
+	},
+	"h8tcipkunaerlla8": {
+		"definition": "fishingluck",
+		"x": 352,
+		"y": 352,
+		"root": false
+	},
+	"anfmy8jm5zeuktn4": {
+		"definition": "rootfishingluck",
+		"x": 448,
+		"y": 480,
+		"root": true
+	},
+	"3vhpkshqs7d00y99": {
+		"definition": "fishingluck",
+		"x": -192,
+		"y": -192,
+		"root": false
+	},
+	"o4ihltw3xwnws9u7": {
+		"definition": "fishingluck",
+		"x": -320,
+		"y": -288,
+		"root": false
+	},
+	"cp5zr7ilfnch41qf": {
+		"definition": "cropharvest+1",
+		"x": 480,
+		"y": -320,
+		"root": false
+	},
+	"9tex4rujwhl0j3s7": {
+		"definition": "reach",
+		"x": -192,
+		"y": 224,
+		"root": false
+	},
+	"2dao960giwfxphck": {
+		"definition": "reach",
+		"x": 192,
+		"y": -160,
+		"root": false
+	},
+	"san0kui5mgetxt05": {
+		"definition": "cropharvest+3",
+		"x": 608,
+		"y": -192,
+		"root": false
+	},
+	"fm10bmvf7747btux": {
+		"definition": "cropharvest+1",
+		"x": 736,
+		"y": -64,
+		"root": false
+	},
+	"xc5mdxyydpdih1bx": {
+		"definition": "cropharvest+1",
+		"x": 416,
+		"y": -256,
+		"root": false
+	},
+	"p090qylr4asf0aw4": {
+		"definition": "cropharvest+3",
+		"x": 544,
+		"y": -128,
+		"root": false
+	},
+	"khuwavxg9o3aky88": {
+		"definition": "cropharvest+1",
+		"x": 672,
+		"y": 0,
+		"root": false
+	},
+	"veqz5pjayo8hz540": {
+		"definition": "cropharvest+1",
+		"x": 768,
+		"y": 96,
+		"root": false
+	},
+	"u5i4jibwmh9swb5d": {
+		"definition": "fishingluck",
+		"x": -448,
+		"y": -352,
+		"root": false
+	},
+	"jxhto0mgcs0alcyi": {
+		"definition": "cropharvest+1",
+		"x": 320,
+		"y": -352,
+		"root": false
+	},
+	"zbrbvbobauur3e8k": {
+		"definition": "rootfishinglure",
+		"x": 416,
+		"y": 512,
+		"root": false
+	},
+	"y1vhuepktcihpekc": {
+		"definition": "fishinglure",
+		"x": 320,
+		"y": 384,
+		"root": false
+	},
+	"x4255xsbu9vtczi9": {
+		"definition": "fishinglure",
+		"x": 192,
+		"y": 256,
+		"root": false
+	},
+	"5b1s6efgjznq3b1h": {
+		"definition": "fishinglure",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"4fzfl34ah9oa9pgb": {
+		"definition": "fishinglure",
+		"x": -96,
+		"y": -32,
+		"root": false
+	},
+	"g1pqqmyehkm5cvx5": {
+		"definition": "fishinglure",
+		"x": -224,
+		"y": -160,
+		"root": false
+	},
+	"0mt5s0ihanjaqrey": {
+		"definition": "fishinglure",
+		"x": -320,
+		"y": -256,
+		"root": false
+	},
+	"9otl8y1rom5t9tqk": {
+		"definition": "fishinglure",
+		"x": -416,
+		"y": -320,
+		"root": false
+	},
+	"l31q57sagifmsc6j": {
+		"definition": "rootfishinglooting",
+		"x": -448,
+		"y": -288,
+		"root": false
+	},
+	"lhlosb1wx2amiceu": {
+		"definition": "fishinglooting",
+		"x": -448,
+		"y": -128,
+		"root": false
+	},
+	"wa43mb0nxbofdlbl": {
+		"definition": "fishinglooting",
+		"x": -448,
+		"y": -96,
+		"root": false
+	},
+	"i21ckwu13gewiykh": {
+		"definition": "fishinglooting",
+		"x": -480,
+		"y": -64,
+		"root": false
+	},
+	"g93erui4t4w444gi": {
+		"definition": "fishinglooting",
+		"x": -512,
+		"y": -64,
+		"root": false
+	},
+	"n5a2uqi17c8e3cr3": {
+		"definition": "fishinglooting",
+		"x": -544,
+		"y": -96,
+		"root": false
+	},
+	"xqyv1f1wiqj5s7zl": {
+		"definition": "reach",
+		"x": -352,
+		"y": 448,
+		"root": false
+	},
+	"eag8zq6cz5kfpjaz": {
+		"definition": "reach",
+		"x": -224,
+		"y": 320,
+		"root": false
+	},
+	"sveql1360q7q05id": {
+		"definition": "reach",
+		"x": -96,
+		"y": 192,
+		"root": false
+	},
+	"b83occfku49onowt": {
+		"definition": "reach",
+		"x": 32,
+		"y": 64,
+		"root": false
+	},
+	"vqkpmjjyc0anso88": {
+		"definition": "reach",
+		"x": 160,
+		"y": -64,
+		"root": false
+	},
+	"ilrjefe56edha74r": {
+		"definition": "reach",
+		"x": 288,
+		"y": -192,
+		"root": false
+	},
+	"ldhjyw1ndw9j06s3": {
+		"definition": "reach",
+		"x": 416,
+		"y": -320,
+		"root": false
+	},
+	"l44fyt3fxh5701sw": {
+		"definition": "reach",
+		"x": 480,
+		"y": -384,
+		"root": false
+	}
+}

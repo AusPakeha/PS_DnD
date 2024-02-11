@@ -1,0 +1,249 @@
+{
+	"rootcropharvest+1": {
+		"title": "Lucky!",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:harvest",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3dl6h38jpsa3pf7d"
+		}
+	},
+	"cropharvest+1": {
+		"title": "+1 Per Harvest",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:harvest",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "yr1iyrktveugdybg"
+		}
+	},
+	"cropharvest+3": {
+		"title": "+3 Per Harvest",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:harvest",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "2t9h4g6hf8izr0d0"
+		}
+	},
+	"rootreach": {
+		"title": "Long Arms",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "end_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "forge:entity_reach",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xs8kwqsza52cq5jj"
+		}
+	},
+	"reach": {
+		"title": "+0.5 Reach Distance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "blaze_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "forge:entity_reach",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "g76akc5j7ykmcwu1"
+		}
+	},
+	"rootfishingluck": {
+		"title": "Experienced Fisherman",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:fishing_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:fishing_luck",
+					"value": 0.125,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xm4nr77r1pl6szc9"
+		}
+	},
+	"fishingluck": {
+		"title": "Increase Fishing Luck",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:fishing_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:fishing_luck",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "fgxi1y539m1xnsyt"
+		}
+	},
+	"rootfishinglooting": {
+		"title": "Lucky Fisherman",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:tropical_fish"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:looting",
+					"value": 0.125,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ys1foqn26yovahje"
+		}
+	},
+	"fishinglooting": {
+		"title": "Increase Fishing Looting",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:pufferfish"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:looting",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "623rc0wswrb9v9pw"
+		}
+	},
+	"rootfishinglure": {
+		"title": "Fishy Lure",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:rotten_flesh"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:fishing_lure",
+					"value": 0.125,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "tr2nd4y63kdpazih"
+		}
+	},
+	"fishinglure": {
+		"title": "Increase Fishing Attractivness",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:rotten_flesh"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pufferfish_unofficial_additions:fishing_lure",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dbzmfnpbg4i8eqx2"
+		}
+	}
+}

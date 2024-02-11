@@ -1,0 +1,72 @@
+{
+"enabled": true,
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "min(level ^ 1.432 + 10, 200)"
+		}
+	},
+	"sources": [
+		{
+			"type": "pufferfish_unofficial_additions:harvest_crops",
+			"data": {
+			"conditions": {
+                "crops": {
+                    "type": "block_tag", 
+                    "data": {
+                        "tag": "minecraft:crops"
+                    }
+                } 
+			},
+            "parameters": {
+                "dropped_crops": {
+                    "type": "dropped_crops"
+                },
+                "dropped_seeds": {
+                    "type": "dropped_seeds"
+                }
+            },
+            "experience": [
+                {
+                    "condition": "crops",
+                    "expression": "dropped_seeds + (dropped_seeds * 0.1)"
+                }
+            ],
+				"anti_farming": {
+					"enabled": true,
+					"limit_per_chunk": 35,
+					"reset_after_seconds": 35
+				}
+			}
+		},
+		{
+			"type": "pufferfish_unofficial_additions:fishing",
+			"data": {
+				"conditions": {
+					"fished": {
+						"type": "fished_tag",
+                        "data": {
+                            "tag": "minecraft:fishes"
+                        }
+					}
+				},
+                "parameters": {
+                    "fished_amount": {
+                        "type": "fished_amount"
+                    }
+                },
+				"experience": [
+                    {
+                        "condition": "fished",
+                        "expression": "fished_amount * 3"
+                    }
+                ],
+				"anti_farming": {
+					"enabled": true,
+					"limit_per_chunk": 35,
+					"reset_after_seconds": 35
+				}
+			}
+		}
+	]
+}    
