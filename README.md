@@ -1,6 +1,4 @@
-- PFS vanilla template - mod collection with below mods. Load into curseforge. Used to get info, items names and test skill trees
 - PuffSkillsRP - background textures. Best used with mods like Open Loader. Made by Liopyu (I think)
-- categories(classes) basic files. Made by Liopyu
 
 requires mods:
 
