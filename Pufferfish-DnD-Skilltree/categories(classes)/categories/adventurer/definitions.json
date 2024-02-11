@@ -206,7 +206,7 @@
 		"icon": {
 			"type": "effect",
 			"data": {
-				"effect": "ars_nouveau:freezing"
+				"effect": "minecraft:blue_ice"
 			}
 		},
 		"rewards": [
@@ -226,9 +226,9 @@
 	"+10%critdamage": {
 		"title": "Critical Blows (+5% Crit Dmg)",
 		"icon": {
-			"type": "item",
+			"type": "effect",
 			"data": {
-				"item": "ars_nouveau:wilden_horn"
+				"item": "minecraft:strength"
 			}
 		},
 		"rewards": [
@@ -272,7 +272,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "ars_nouveau:wilden_spike"
+				"item": "minecraft:specrtal_arrow"
 			}
 		},
 		"rewards": [
@@ -384,7 +384,7 @@
 		"icon": {
 			"type": "item",
 			"data": {
-				"item": "apotheosis:broadhead_arrow"
+				"item": "minecraft:tipped_arrow"
 			}
 		},
 		"rewards": [
