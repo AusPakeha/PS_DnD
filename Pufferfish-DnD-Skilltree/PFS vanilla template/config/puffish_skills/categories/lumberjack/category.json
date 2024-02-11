@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "LumberJack",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "diamond_axe"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}
