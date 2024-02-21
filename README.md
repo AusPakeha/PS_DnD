@@ -1,3 +1,6 @@
+Files contained here were originally made by Lipoyu.
+Thanks to them.
+
 - PuffSkillsRP - background and icon textures. Best used with mods like Open Loader. Made by Liopyu
 
 requires mods:
