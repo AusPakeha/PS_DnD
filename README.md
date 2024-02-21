@@ -1,4 +1,4 @@
-- PuffSkillsRP - background and icon textures. Best used with mods like Open Loader. Made by Liopyu with Firefly's Better Icons included
+- PuffSkillsRP - background and icon textures. Best used with mods like Open Loader. Made by Liopyu
 
 requires mods:
 
